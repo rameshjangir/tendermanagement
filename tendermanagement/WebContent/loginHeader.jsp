@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tender Management System</title>
+    <title> Quorum Tender Management System</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/annimate.css">
     <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
@@ -27,8 +27,8 @@
                 <a href="#" class="pull-left">
                     <img src="images/hit1.jpg" alt="HIT Haldia" width="70px" height="70px"/>
                 </a>
-                    <a class="navbar-brand" href="#"><h1>Tender Management System</h1></a> <!-- Library Name fixed-->
-                    <a href="#"><p> A HIT Haldia Project</p></a>
+                    <a class="navbar-brand" href="#"><h1> Quorum Tender Management System</h1></a> <!-- Library Name fixed-->
+                    <a href="#"><p> A GCOC Team Project</p></a>
             </div>
          
             <ul class="nav navbar-nav navbar-right menusize pull-right">   <!-- Login or signup in right top corner-->
