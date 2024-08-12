@@ -27,7 +27,7 @@
                 <a href="#" class="pull-left">
                     <img src="images/hit1.jpg" alt="HIT Haldia" width="70px" height="70px"/>
                 </a>
-                    <a class="navbar-brand" href="#"><h1>Quorum Tender Management System</h1></a> <!-- Library Name fixed-->
+                    <a class="navbar-brand" href="#"><h1>GCOC Tender Management Project</h1></a> <!-- Library Name fixed-->
                     <a href="#"><p> A HIT Haldia Project</p></a>
             </div>
          
